@@ -32,7 +32,7 @@ Before stepping into IT, I spent 10 years saving lives as a paramedic. The exper
 
 ## Let's Connect!
 
-- **Amateur Radio Callsign**: [HB9HIL]
-- **Email**: [contact@hb9hil.org]
+- **Amateur Radio Callsign**: HB9HIL
+- **Email**: contact@hb9hil.org
 
 Feel free to reach out if you'd like to collaborate or chat about tech, Linux, or amateur radio!
