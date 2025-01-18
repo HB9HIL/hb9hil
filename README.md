@@ -19,7 +19,7 @@ Here are a few technologies I work with on a regular basis:
 
 - **Operating Systems**: Linux (Debian, Ubuntu, CentOS)
 - **Scripting and Programming**: Bash, PHP, Javascript, C
-- **DevOps**: Docker, currently learning Ansible
+- **DevOps**: Docker, Ansible
 - **Networking**: SSH, Firewalls, VPNs
 
 ---
